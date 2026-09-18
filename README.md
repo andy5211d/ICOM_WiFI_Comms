@@ -1,6 +1,8 @@
-# ICOM_WiFi_Comms (v0.8-style reconstruction)
+# ICOM_WiFi_Comms
 
-ESP32-S3-Touch-LCD-5 (Waveshare) controller for ICOM R8600 over LAN CI-V.
+(These files may not be correct as not yet tested.  This is a reconstruction of work done some months ago with CoPilot trying to re-generate the files.  I did not make good notes as at the time intended to continue the following day! Sill me:-)  The working files will be uploaded when sorted!)
+
+ESP32-S3-Touch-LCD-5 (Waveshare) controller for ICOM R8600 over LAN.
 
 ## Hardware
 
