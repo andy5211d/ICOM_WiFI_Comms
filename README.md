@@ -1,6 +1,8 @@
 # ICOM_WiFi_Comms
 
-(These files may not be correct as not yet tested.  This is a reconstruction of work done some months ago with CoPilot trying to re-generate the files.  I did not make good notes as at the time intended to continue the following day! Sill me:-)  The working files will be uploaded when sorted!)
+A touch screen controller for the ICOM R8600.  This is intended to be used with the RC-28 connected to the Touch Screen controller (Waveshare ESP32-S3-Touch-LCD-5),but is unlikely to be working yet! 
+
+(These files may not be correct as not yet tested.  This is a reconstruction of work done some months ago with CoPilot trying to re-generate the files.  I did not make good notes as at the time I intended to continue the following day! Silly me:-)  I did get this to work reliably, just need to find the correct code :-)
 
 ESP32-S3-Touch-LCD-5 (Waveshare) controller for ICOM R8600 over LAN.
 
